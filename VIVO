@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",LIGA MAX 1
-https://servilive.com:3303/live/laverdadypuntotvlive.m3u8
+https://servilive.com:3573/live/ozonotvlive.m3u8
 #EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",GOL PERÚ
 https://servilive.com:3730/live/galaxy1live.m3u8
 #EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",FUTBOL INTERNACIONAL
