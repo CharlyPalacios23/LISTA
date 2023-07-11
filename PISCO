@@ -8,7 +8,7 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",TV PERÚ
 https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",ATV
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/ATV_logo_con_fondo_2021-.svg/revision/latest/scale-to-width-down/250?cb=20220425162558&path-prefix=es",ATV
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv_480.m3u8
 #EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",ATV+
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
