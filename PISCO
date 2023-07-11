@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",LIGA MAX 1
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="https://deportesenred.net/noticias/wp-content/uploads/2019/01/50140900_2332004926833423_8114358356577091584_n.jpg",LIGA MAX 1
 https://servilive.com:3573/live/ozonotvlive.m3u8
 #EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",LATINA
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
