@@ -4,6 +4,8 @@
 https://servilive.com:3573/live/ozonotvlive.m3u8
 #EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",LATINA
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+#EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-Ipe-Per%C3%BA-en-vivo-Online.png?resize=696%2C392&ssl=1",IPE TV
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index_2.m3u8
 #EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1200px-Panamericana-tv.svg.png",PANAMERICANA
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFhCTHFypLvIVsY_s60J1MKMDef8bm6d90hQ2gjqItNTV)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc 
 #EXTINF:-1 group-title="ESTRENOS 2022" tvg-logo="",TV PERÚ
